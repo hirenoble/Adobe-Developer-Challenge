@@ -17,10 +17,14 @@ Open your web browser and go to: [https://experiencecloud.adobe.com](https://exp
 ## Challenge-1: Adobe Stock API
 Adobe stock give users access to stunning Adobe Stock high-quality images, graphics, and videos to use in their ads, email templates, and websites.
 
-**Challenge: Using the Adobe Stock API, search for images with keyword `kittens`. The end result should be an API response with `Status: 200 OK` as below.**
+**Challenge: Using the Adobe Stock `/Search/Files` API, search for images with keyword `kittens`. The end result should be an API response with `Status: 200 OK` as shown below.**
 ![challenge 1](./images/1.png)
 
-## Challenge-2: Adobe Target API
+## Challenge-2: Adobe Launch API
+Launch is the next generation of website tag and mobile SDK management capabilities from Adobe. Launch gives customers a simple way to deploy and manage all of the analytics, marketing, and advertising integrations necessary to power relevant customer experiences.
+
+**Challenge: Using the Adobe Launch `/companies` API, get the list of all the companies. The end result should be an API response with `Status: 200 OK` as shown below.**
+![challenge 2](./images/2.png)
 
 
 
