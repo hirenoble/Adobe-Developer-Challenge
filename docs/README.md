@@ -31,6 +31,11 @@ Adobe Analytics is the industry-leading solution for applying real-time analytic
 **Challenge: Using the Adobe Analytics `/reports` API, create a time series report with Page Views metric for the report suite id `bgeo1xxpnwcidadobeisoldemo`. The end result should be an API response with `Status: 200 OK` as shown below.**
 ![challenge 3](./images/3.png)
 
+OR
+
+![challenge 4](./images/4.png)
+
+
 
 
 ## Feedback
@@ -41,6 +46,5 @@ Fill out the feedback survey after completing the test: [https://hirenshah1.type
 *   Center of developer universe: [https://www.google.com](https://www.google.com)
 *   Adobe Developer website: [https://www.adobe.io](https://www.adobe.io)
 *   Adobe Developer admin console: [https://console.adobe.io](https://console.adobe.io)
-
 
 
