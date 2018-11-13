@@ -26,6 +26,11 @@ Launch is the next generation of website tag and mobile SDK management capabilit
 **Challenge: Using the Adobe Launch `/companies` API, get the list of all the companies. The end result should be an API response with `Status: 200 OK` as shown below.**
 ![challenge 2](./images/2.png)
 
+## Challenge-3: Adobe Analytics API
+Adobe Analytics is the industry-leading solution for applying real-time analytics and detailed segmentation across all of your marketing channels.It discovers high-value audiences and power customer intelligence for your business. Adobe Analytics APIs offer limitless ways to integrate your most important customer data into key business processes.
+
+**Challenge: Using the Adobe Analytics `/reports` API, create a time series report with Page Views metric for the report suite id `bgeo1xxpnwcidadobeisoldemo`. The end result should be an API response with `Status: 200 OK` as shown below.**
+![challenge 3](./images/3.png)
 
 
 
