@@ -12,6 +12,12 @@ Follow link in email and setup your Adobe ID.
 ## Step 3
 Open your web browser and go to: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)
 
+## Important URLs:
+
+*   Center of developer universe: [https://www.google.com](https://www.google.com)
+*   Adobe Developer website: [https://www.adobe.io](https://www.adobe.io)
+*   Adobe Developer console: [https://console.adobe.io](https://console.adobe.io)
+
 # The challenge
 
 ## Challenge-1: Adobe Stock API
@@ -45,11 +51,3 @@ OR
 
 ## Feedback
 Fill out the feedback survey after completing the test: [https://hirenshah1.typeform.com/to/k0LVuG](https://hirenshah1.typeform.com/to/k0LVuG)
-
-## Important URLs:
-
-*   Center of developer universe: [https://www.google.com](https://www.google.com)
-*   Adobe Developer website: [https://www.adobe.io](https://www.adobe.io)
-*   Adobe Developer console: [https://console.adobe.io](https://console.adobe.io)
-
-
