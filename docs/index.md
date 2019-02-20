@@ -29,7 +29,11 @@ Launch is the next generation of website tag and mobile SDK management capabilit
 ## Challenge-3: Adobe Analytics API
 Adobe Analytics is the industry-leading solution for applying real-time analytics and detailed segmentation across all of your marketing channels.It discovers high-value audiences and power customer intelligence for your business. Adobe Analytics APIs offer limitless ways to integrate your most important customer data into key business processes.
 
-**Challenge: Using the Adobe Analytics `/reports` API, create a time series report with Page Views metric for the report suite id `bgeo1xxpnwcidadobeisoldemo` and company id `adobei54`. The end result should be an API response with `Status: 200 OK` as shown below.**
+**Challenge: Using the Adobe Analytics `/reports` API, create a time series report with Page Views metric. Use below information:**
+- **report suite id `bgeo1xxpnwcidadobeisoldemo`**
+- **company id `adobei54`**
+
+**The end result should be an API response with `Status: 200 OK` as shown below.**
 ![challenge 3](./images/3.png)
 
 OR
@@ -46,6 +50,6 @@ Fill out the feedback survey after completing the test: [https://hirenshah1.type
 
 *   Center of developer universe: [https://www.google.com](https://www.google.com)
 *   Adobe Developer website: [https://www.adobe.io](https://www.adobe.io)
-*   Adobe Developer admin console: [https://console.adobe.io](https://console.adobe.io)
+*   Adobe Developer console: [https://console.adobe.io](https://console.adobe.io)
 
 
